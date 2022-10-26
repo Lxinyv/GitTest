@@ -11,6 +11,8 @@ public class GitTestApplication {
       System.out.println("second commit");
       System.out.println("third commit");
       System.out.println("hot-fix first commit");
+      System.out.println("master test");
+
 
     }
 
